@@ -60,3 +60,7 @@ footer {
 
 .album img {
   height: 300px; }
+
+.thumbnail img {
+  width: 100%;
+}
